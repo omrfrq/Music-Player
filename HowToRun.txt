@@ -1,0 +1,4 @@
+in order to run the code in visual studio one additional dependency needs to be added.
+
+in the solution explorer right click on the source code and select properties > linker > input > additional dependencies.
+in Aditional Dependencies through the drop down menu select Edit and type Winmm.lib in the first box.
