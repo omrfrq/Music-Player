@@ -2,5 +2,5 @@
 A music player that plays .wav files made in c++ using data structures
 
 Project members:
-Omer Farooq
+Omer Farooq,
 Haisim Yasin
